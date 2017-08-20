@@ -4,16 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HewwoWorld
+namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // This is a comment
-
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
         }
     }
 }

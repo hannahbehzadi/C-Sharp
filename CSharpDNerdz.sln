@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HewwoWorld", "HewwoWorld\HewwoWorld.csproj", "{804DAEAA-6075-4DA9-84EC-A0FB9839E305}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "ConsoleApp1\Variables.csproj", "{79C8F57C-C950-4DE4-8684-D1F0AE6D4034}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{804DAEAA-6075-4DA9-84EC-A0FB9839E305}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{804DAEAA-6075-4DA9-84EC-A0FB9839E305}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{804DAEAA-6075-4DA9-84EC-A0FB9839E305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C8F57C-C950-4DE4-8684-D1F0AE6D4034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C8F57C-C950-4DE4-8684-D1F0AE6D4034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C8F57C-C950-4DE4-8684-D1F0AE6D4034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C8F57C-C950-4DE4-8684-D1F0AE6D4034}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
